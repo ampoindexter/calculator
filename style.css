@@ -1,0 +1,22 @@
+#calculator {
+  border: 5px solid #666;
+  background-color: #99ff99;
+}
+
+#result {
+  color: #777;
+}
+
+#content {
+  margin: auto 0;
+}
+
+button {
+  /*border: 1px solid #666;*/
+  /*height: 25vw;*/
+  /*width: 25vw;*/
+  /*display: inline-block;*/
+  background-color: #9999ff;
+  text-align: center;
+  cursor: pointer;
+}
